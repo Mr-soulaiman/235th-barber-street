@@ -1,0 +1,6 @@
+{
+  "name": "235TH Barber Street",
+  "description": "Landing page for 235TH Barber Street with WhatsApp reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
